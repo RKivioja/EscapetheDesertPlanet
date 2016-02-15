@@ -1,0 +1,5 @@
+C:\Users\Roope\Documents\Koulutus\ajk\harjoitustyö\harjotustyo\TextAdventure\bin\Debug\TextAdventure.exe
+C:\Users\Roope\Documents\Koulutus\ajk\harjoitustyö\harjotustyo\TextAdventure\bin\Debug\TextAdventure.pdb
+C:\Users\Roope\Documents\Koulutus\ajk\harjoitustyö\harjotustyo\TextAdventure\obj\x86\Debug\TextAdventure.exe
+C:\Users\Roope\Documents\Koulutus\ajk\harjoitustyö\harjotustyo\TextAdventure\obj\x86\Debug\TextAdventure.pdb
+C:\Users\Roope\Documents\Koulutus\ajk\harjoitustyö\harjotustyo\TextAdventure\obj\x86\Debug\TextAdventure.csprojResolveAssemblyReference.cache
